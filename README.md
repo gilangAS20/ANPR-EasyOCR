@@ -9,6 +9,7 @@ Import ke PC local dan tambah tesseractOCR: https://www.youtube.com/watch?v=AAPZ
 
 
 Hasil custom object detection dari video: https://youtu.be/bTVl0NAPsmA   \
+Hasil deteksi plat nomor dan karakter dengan EasyOCR: https://youtu.be/W65q_LPFqpo \
 
 Dokumentasi_deteksi_platnomor_gilang (docx) -> dokumentasi untuk training Darknet YOLOv4 Custom Object Detection \\
 2. Dokumentasi_penambahan_OCR (pdf) -> dokumentasi untuk menjalankan Custom Object Detection di PC Local, menambahkan OCR \\
